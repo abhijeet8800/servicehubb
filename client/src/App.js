@@ -13,7 +13,7 @@ import {useNavigate} from "react-router-dom";
 import {Toaster} from "react-hot-toast";
 import BookingComplete from "./components/bookingcomplete";
 const AuthContext=React.createContext();
-export const backendUrl="https://servicehubapp.onrender.com";
+export const backendUrl="https://servicehubb.onrender.com";
 // export const backendUrl="http://localhost/5000";
 function App() {
   return (
